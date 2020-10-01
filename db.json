@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "pedidos": [
+    { "id": 1, "title": "Pedido 1" },
+    { "id": 2, "title": "Pedido 2" },
+    { "id": 3, "title": "Pedido 3" }.
+    { "id": 4, "title": "Pedido 4" },
+    { "id": 5, "title": "Pedido 5" },
+    { "id": 6, "title": "Pedido 6" },
+    { "id": 7, "title": "Pedido 7" },
+    { "id": 8, "title": "Pedido 8" },
+    { "id": 9, "title": "Pedido 9" },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "status": [
+    { "id": 1, "body": "Pendiente", "pedidoID": 1 },
+    { "id": 2, "body": "Entregado", "pedidoID": 2 },
+    { "id": 3, "body": "Recibido", "pedidoID": 3 },
+    { "id": 4, "body": "Pendiente", "pedidoID": 4 },
+    { "id": 5, "body": "Entregado", "pedidoID": 5 },
+    { "id": 6, "body": "Recibido", "pedidoID": 6 },
+    { "id": 7, "body": "Pendiente", "pedidoID": 7 },
+    { "id": 8, "body": "Entregado", "pedidoID": 8 },
+    { "id": 9, "body": "Recibido", "pedidoID": 9 },
   ],
+  
   "profile": {
-    "name": "typicode"
+    "name": "oscargrandan"
   }
 }

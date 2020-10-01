@@ -2,7 +2,7 @@
   "pedidos": [
     { "id": 1, "title": "Pedido 1" },
     { "id": 2, "title": "Pedido 2" },
-    { "id": 3, "title": "Pedido 3" }.
+    { "id": 3, "title": "Pedido 3" },
     { "id": 4, "title": "Pedido 4" },
     { "id": 5, "title": "Pedido 5" },
     { "id": 6, "title": "Pedido 6" },
